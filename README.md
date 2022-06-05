@@ -3,10 +3,10 @@
 ### Hi there 👋, I'm DidarHassan
 #### I am front-end / web developer
 
-Created a Mobile Responsive User Experience with CSS Flexbox that allowed cross-platform accessibility to the website on any device with primary use on mobile. This increased the number of 5-star User Experience/User Interface reviews by 360%
+Created a Mobile Responsive User Experience with CSS Flexbox/Grid that allowed cross-platform accessibility to the website on any device with primary use on mobile. This increased the number of 5-star User Experience/User Interface reviews by 360%
 
 
-Skills: ANGULAR / HTML / CSS
+Skills: ANGULAR /ANGULAR MATERIAL/ HTML / CSS / CSS FLEX / CSS GRID /BOOTSTRAP
 
 - 🔭 I’m currently working on Angular Js 
 - 🌱 I’m currently learning JavaScript 
