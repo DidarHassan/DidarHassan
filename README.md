@@ -20,7 +20,7 @@ Skills: ANGULAR JS / HTML / CSS
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/DidarHassan/DidarHassan)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/DidarHassan)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/DidarHassan)])
 
 ![GitHub metrics](https://metrics.lecoq.io/https://github.com/DidarHassan)  
 
