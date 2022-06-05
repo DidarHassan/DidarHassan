@@ -8,7 +8,7 @@ Created a Mobile Responsive User Experience with CSS Flexbox/Grid that allowed c
 
 Skills: ANGULAR /ANGULAR MATERIAL/ HTML / CSS / CSS FLEX / CSS GRID /BOOTSTRAP
 
-- 🔭 I’m currently working on Angular Js 
+- 🔭 I’m currently working on Angular Material UI
 - 🌱 I’m currently learning JavaScript 
 - 👯 I’m looking to collaborate on Github 
 - 💬 Ask me about web developer 
