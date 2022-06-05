@@ -6,7 +6,7 @@
 Created a Mobile Responsive User Experience with CSS Flexbox that allowed cross-platform accessibility to the website on any device with primary use on mobile. This increased the number of 5-star User Experience/User Interface reviews by 360%
 
 
-Skills: ANGULAR JS / HTML / CSS
+Skills: ANGULAR / HTML / CSS
 
 - 🔭 I’m currently working on Angular Js 
 - 🌱 I’m currently learning JavaScript 
